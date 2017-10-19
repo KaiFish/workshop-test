@@ -1,0 +1,6 @@
+addCollaborators:
+  newCollaboratorMessage: "Adding you to the repo! Go check your email for an invite!"		   
+  existingCollaboratorMessage: "Thank you for your issue."		   
+remindMerge:
+  merged: "Thanks for your contribution"
+  unmerged: "Please contact us if you need help"
